@@ -68,9 +68,11 @@ engineering, and business** — turning technical capability into working busine
 
 ### Selected certifications
 
-- **Architecting with Google Kubernetes Engine** — Google Cloud
-- **SAFe Fundamentals** · **Google Project Management** — agile & delivery
-- **Google AI Essentials** · **Google IT Automation with Python**
+- **Architecting with Google Kubernetes Engine** — Google Cloud Coursera
+- **SAFe Fundamentals** — Coursera
+- **Google Project Management** — agile & delivery
+- **Google AI Essentials** — Google Cloud Coursera
+- **Google IT Automation with Python** — Google Cloud Coursera
 - **Data Science Specialization** — Johns Hopkins University
 - **Cybersecurity** — University of Maryland
 - **Lean Six Sigma (Yellow Belt)** — TUM
