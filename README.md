@@ -23,7 +23,7 @@ That broad path is exactly why I'm comfortable translating between **operations,
 engineering, and business** — turning technical capability into working business processes.
 
 - Currently consulting on **Matrix42 / Enterprise Service Management (ESM) & ITSM**,
-  with **Nexthink** and **Varonis** in the mix
+  with **Nexthink** in the mix
 - Background in **data engineering, ETL & business intelligence** (R, Python, QlikSense)
 - **B.Sc. Business Informatics** (FernUniversität in Hagen, part-time alongside work)
 - Always learning — currently sharpening **cloud (GKE), agile (SAFe) & AI** skills
@@ -34,7 +34,7 @@ engineering, and business** — turning technical capability into working busine
 
 | Period | Role | Focus |
 |---|---|---|
-| 2024 – now | **Consultant, Enterprise Service Management** · Consulting4IT | Matrix42, Nexthink, Varonis · ITSM/ESM process design & optimization |
+| 2024 – now | **Consultant, Enterprise Service Management** · Consulting4IT | Matrix42, Nexthink · ITSM/ESM process design & optimization |
 | 2021 – 2023 | **Team Lead, IT Business Applications** · Schulte | ERP, BI & EDI · project lead, budget responsibility |
 | 2020 – 2021 | **Data Analyst & Data Engineer** · Schulte | ETL (R, Python, Lobster) · BI (QlikSense) · SQL databases |
 | 2011 – 2020 | **Business Application Developer & Data Engineer** · Schulte | Production/QM apps · SAP BusinessObjects · R Shiny, Python · Linux/MySQL admin |
