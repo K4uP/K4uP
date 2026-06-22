@@ -47,7 +47,6 @@ engineering, and business** — turning technical capability into working busine
 **IT Service Management**  
 ![Matrix42](https://img.shields.io/badge/Matrix42-0A1E3C?style=flat-square)
 ![Nexthink](https://img.shields.io/badge/Nexthink-6D2EE6?style=flat-square)
-![Varonis](https://img.shields.io/badge/Varonis-00A4A6?style=flat-square)
 ![ITIL](https://img.shields.io/badge/ITSM%2FITIL-1B3A57?style=flat-square)
 ![SAFe](https://img.shields.io/badge/SAFe-009FDA?style=flat-square)
 
